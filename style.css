@@ -10,3 +10,18 @@
     border: none;
     border-radius: 4px;
 }
+.icon{
+    height: 350px;
+    width: 250px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.inside{
+align-items: center;
+}
+.inside2{
+    align-items: center;
+}
