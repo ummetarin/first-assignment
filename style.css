@@ -59,8 +59,7 @@ padding-left: 100px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 51px;
 }
-.id{
-}
+
 .snd{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 27px;
@@ -107,5 +106,152 @@ padding-left: 100px;
     padding-left: 28%;
 }
 .color{
-    color:  rgb(239, 69, 101) ;
+    color:  rgb(250, 83, 114) ;
+}
+.iconone{
+height: 200px;
+width: 210px;
+margin-left: 150px;
+}
+.icontwo{
+    height: 200px;
+    width: 210px;
+  
+}
+.iconth{
+   
+    height: 200px;
+    width: 210px;
+}
+.iconft{
+    margin-right: 150px;
+    height: 200px;
+    width: 210px;
+
+}
+.see{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    line-height: 150px;
+    
+}
+.two{
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://github.com/ProgrammingHero1/flower-shop-assignment/blob/main/Flower%20Asset/Rectangle%209.png?raw=true);
+    margin-left: 160px;
+    height: 300px;
+    width: 875px;
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+.twoft{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.twost{
+    text-align: center;
+    padding-top: 1%;
+    color: rgb(145, 145, 145);
+
+}
+.twodt{
+    align-items: center;
+    justify-content: center;
+    padding-top: 2%;
+    padding-left: 25%;
+    
+}
+.foet{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.cheao{
+    border: none;
+    width: 350px;
+    height: 35px;
+}
+.twoset{
+    background-color: rgb(234, 64, 92);
+    width: 120px;
+    height: 35px;
+    border: none;
+    font-size: 12px;
+}
+.worth{
+    display: flex;
+}
+.cheakfor{
+ padding-left: 1%;
+ padding-top: 2%;
+}
+.clr{
+    color: rgb(225, 55, 84);
+    font-family: sans-serif;
+}
+.box{
+    display: flex;
+     margin-bottom: 10%;
+}
+.abc{
+    border-style: groove;
+    border-radius: 100px 100px 15px 15px;
+    padding: 3%;
+    margin-left: 15%;
+    margin-top: 6%;
+    background-color: rgb(250, 214, 220);
+    border: none;
+    
+}
+
+.abd{
+        border-style: groove;
+        border-radius: 100px 100px 15px 15px; 
+        padding: 1%;
+        padding-bottom: 3%; 
+        margin-top: 5%;
+        margin-left: 5%;
+        background-color: rgb(184, 223, 223);
+        border: none;
+        
+    }
+
+.abe{
+    border-style: groove;
+    border-radius: 100px 100px 15px 15px;
+    padding-left: 5%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-left: 5%;
+    background-color: rgb(121, 161, 146);
+    border: none;
+}
+.t1{
+    font-family: sans-serif;
+    line-height: 230%;
+}
+.t2{
+    color: rgb(140, 143, 143);
+}
+.show{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    border: 10% solid rgb(207, 127, 29);
+    border-radius: 10px 5px 4px 44px;
+    line-height: 200%;
+}
+.last{
+border-style: solid;
 }
