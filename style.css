@@ -2,7 +2,10 @@
     padding: 0px;
     margin: 0px;
 }
-.but{
+.header{
+    margin-bottom: 100px;
+}
+.btn1{
     color: aliceblue;
     background-color: rgb(236, 78, 105);
     padding: 10px;
@@ -13,32 +16,21 @@
     font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.btn1:hover{
+ color: rgb(46, 141, 3background-6);
+ color: black;
+ 
+}
 .icon{
+    width: 370px;
     height: 500px;
-    width: 400px;
-    padding-bottom: 280px;
-    padding-left: 40px;
-    margin-top: 5px;
-    
 }
 .flex{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding-bottom: 300px;
     background-color: rgb(254, 240, 240);
-    margin-bottom: 100px;
     background-position: center;
-
-
-}
-.inside{
-align-items: center;
-padding-bottom: 250px;
-padding-left: 100px;
-}
-.inside2{
-    align-items: center;
 }
 .habit1{
     color: rgb(123, 123, 123);
@@ -73,7 +65,7 @@ padding-left: 100px;
 .homo{
     line-height: 90px;
 }
-.idd{
+.btn{
     color: aliceblue;
     background-color: rgb(239, 69, 101);
     padding: 10px;
@@ -83,6 +75,10 @@ padding-left: 100px;
     border-radius: 4px;
     font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+.btn:hover{
+ background-color: pink;
+ color: black;
 }
 .iconsnd{
     height: 230px;
@@ -187,6 +183,10 @@ margin-left: 150px;
     border: none;
     font-size: 12px;
 }
+.twoset:hover{
+background-color: pink;
+ color: black;
+}
 .worth{
     display: flex;
 }
@@ -202,7 +202,7 @@ margin-left: 150px;
     display: flex;
      margin-bottom: 10%;
 }
-.abc{
+.box1{
     border-style: groove;
     border-radius: 100px 100px 15px 15px;
     padding: 3%;
@@ -213,10 +213,10 @@ margin-left: 150px;
     
 }
 
-.abd{
+.box2{
         border-style: groove;
         border-radius: 100px 100px 15px 15px; 
-        padding: 1%;
+        padding: 2%;
         padding-bottom: 3%; 
         margin-top: 5%;
         margin-left: 5%;
@@ -225,7 +225,7 @@ margin-left: 150px;
         
     }
 
-.abe{
+.box3{
     border-style: groove;
     border-radius: 100px 100px 15px 15px;
     padding-left: 5%;
@@ -237,6 +237,10 @@ margin-left: 150px;
     background-color: rgb(121, 161, 146);
     border: none;
 }
+.name of box{
+    display: flex;
+    justify-content: space-around;
+}
 .t1{
     font-family: sans-serif;
     line-height: 230%;
@@ -247,11 +251,17 @@ margin-left: 150px;
 .show{
     display: flex;
     text-align: center;
+    border-style: solid;
     justify-content: space-around;
-    border: 10% solid rgb(207, 127, 29);
-    border-radius: 10px 5px 4px 44px;
+    border-radius: 5px;
     line-height: 200%;
+    height: 150px;
+    width:1000px;
+    margin-right: 20%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    padding-top: 3%; 
+    border: none;
+    background-color: rgb(203, 203, 214);
 }
-.last{
-border-style: solid;
-}
+
